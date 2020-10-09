@@ -9,33 +9,31 @@
 
 # ------------------------------------------------------------------------------
 # Title & Description
-title: New Deal Photography
-subtitle: The Works of Dorothea Lange and Walker Evans
+title: Pictorial Silks
+subtitle: Chinese Textiles from the UMAG Collection
 reading_line:
-short_title:
+short_title: Pictorial Silks from the UMAG Collection
 
 description:
   one_line:
   full: >-
-    Quire is a digital publishing framework built on top of the Hugo static site
-    generator. Generate Web, PDF, and print books (with Epub coming soon) from a single set of text files.
 
 # ------------------------------------------------------------------------------
 # Publication Details
 # ------------------------------------------------------------------------------
 
-pub_date: 2019-03-01 # YYYY-MM-DD
+pub_date: 2020-11-10 # YYYY-MM-DD
 language: en
-pub_type: book # book | journal-periodical | other
+pub_type: other # book | journal-periodical | other
 
 identifier:
   isbn:
 
 publisher:
-  - name: J. Paul Getty Trust
-    location: Los Angeles
+  - name: UMAG
+    location: Hong Kong
     url:
-    logo: logo-getty.png
+    logo: contributors/HKUMAG_logo.png
 
 # ------------------------------------------------------------------------------
 # Contributors
@@ -44,35 +42,43 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: Kikki Lam
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    pic: contributors/judith-keller.jpg
-  - id:
-    type:
-    first_name:
-    last_name:
-    title:
-    affiliation:
+    first_name: Kikki
+    last_name: Lam
+    title: Assistant Curator
+    affiliation: Hong Kong History Museum
     bio:
     url:
     pic:
+    file_as: 1
+  - id: Christopher_Mattison
+    type: secondary
+    first_name: Christopher
+    last_name: Mattison
+    bio: "Series Editor"
+    file_as: 2
+  - id: Darcy_Christ
+    type: secondary
+    first_name: Darcy
+    last_name: Christ
+    bio: "Information Architect and Web Developer"
+    url: https://aporia.info
+    file_as: 3
+
+
+
 
 # ------------------------------------------------------------------------------
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2017 J. Paul Getty Trust
+copyright: © 2020 Hong Kong University Museum and Art Gallery, The University of Hong Kong
 
 license:
-  name: Creative Commons Attribution 4.0 International License
-  abbreviation: CC BY
-  url: https://creativecommons.org/licenses/by/4.0/
+  name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+  abbreviation: CC BY-NC-SA 4.0
+  url: https://creativecommons.org/licenses/by-nc-sa/4.0/
   scope: full # full | text-only | some-exceptions
 
 # ------------------------------------------------------------------------------
@@ -114,22 +120,19 @@ resource_link:
 
 subject:
   - type: bisac
-    name: PHOTOGRAPHY / Subjects & Themes / Historical
-    identifer: PHO023100
-  - type: getty
-    name: Dorothea Lange
-    identifier: "https://vocab.getty.edu/ulan/500007674"
+    name: ART / Asian / Chinese
+    identifer: ART019010
   - type: keyword
-    name: photography
+    name: painting
   - type: getty
-    name: Walker Evans
-    identifier: "https://vocab.getty.edu/ulan/500012076"
+    name: oil paintings (visual works)
+    identifier: "https://vocab.getty.edu/page/aat/300033799"
   - type: getty
-    name: black-and-white photography
-    identifier: "https://vocab.getty.edu/aat/300162056"
+    name: acrylic paintings (visual works)
+    identifier: "https://vocab.getty.edu/page/aat/300181918"
   - type: getty
-    name: despression (economic concept)
-    identifier: "https://vocab.getty.edu/aat/300410245"
+    name: Hong Kong (culture)
+    identifier: "https://vocab.getty.edu/page/aat/300387735"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -145,4 +148,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: cover.png
+promo_image: Cvr_tst.png

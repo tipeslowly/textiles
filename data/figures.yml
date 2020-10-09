@@ -1,90 +1,94 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
-    label: "Figure 5"
-    src: figures/evans-burroughs.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
-    label: "Figure 6"
-    src: figures/evans-washroom.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
-    label: "Figure 7"
-    src: figures/evans-child.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
-    label: "Figure 8"
-    src: figures/evans-refugee.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "photo-podcast"
-    media_id: 336879231
-    media_type: soundcloud
-    caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
+  - id: "oriole_cloves"
+    src: figures/oriole_cloves.png
+    credit: ""
+  - id: "daoist_immortals"
+    src: figures/daoist_immortals.png
+    caption: "Daoist immortals | China | Qing dynasty (1644–1911), 18th century | Kesi (silk tapestry) with metallic threads, horizontal scroll | 175.4 x 46.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2008.1669"
+    credit: ""
+  - id: "dragon_robe_blue"
+    src: figures/dragon_robe_blue.png
+    caption: "Dragon robe | China | Qing dynasty (1644–1911), 19th century | Silk with metallic threads | 142 x 217 cm |"
+    credit: "Gift of Dr TT Tsui, Tsui Art Foundation Ltd | HKU.T.1996.1095"
+  - id: "custard_cups"
+    src: figures/custard_cups.png
+    caption: "Pair of custard cups | Jingdezhen, China | Qing dynasty, Qianlong period, ca. 1790s | Porcelain with underglaze and overglaze enamels and gilding | height 9 and 8.7 cm | Donated in memory of Miss Beryl Robina Wright | HKU.C.1997.1288a-b"
+    credit: ""
+  - id: "plate_powder_blue"
+    src: figures/plate_powder_blue.png
+    caption: "Plate| Jingdezhen, China | Qing dynasty, Kangxi period (1662–1722)| Porcelain with powder blue glaze, gilding and overglaze enamels | diameter 27 cm | HKU.C.1976.0623"
+    credit: ""
+  - id: "kingfishers_hibiscuses"
+    src: figures/kingfishers_hibiscuses.png
+    caption: "Kingfishers and hibiscuses | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry), hanging scroll | 114.9 x 41.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2008.1676"
+    credit: ""
+  - id: "figures_moonlight"
+    src: figures/figures_moonlight.png
+    caption: "Figures in the moonlight | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, hanging scroll | 102.5 x 24.7 cm | Gift of Dr Lam Kwok Pun | HKU.T.2008.1667"
+    credit: ""
+  - id: "banner_70th_1"
+    src: figures/banner_70th_1.png
+    caption: "Longevity banner commemorating the 70th birthday of Xu Yingkui | China| Qing dynasty (1644–1911), 1900 | Silk with metallic threads | 302 x 147.3 cm | Gift of Dr Hui Wai Haan | HKU.T.2004.1924"
+    credit: ""
+  - id: "peonies"
+    src: figures/peonies.png
+    caption: "Peonies | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, hanging scroll | 98.8 x 54 cm | collector's seal: *Lantang shuwu* | Gift of Dr Lam Kwok Pun | HKU.T.2004.1672"
+    credit: ""
+  - id: "growing_peony"
+    src: figures/growing_peony.png
+    caption: "Growing peony | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry), hanging scroll | 89.3 x 44 cm | Collector's seal: *Lantang shuwu* | Gift of Dr Lam Kwok Pun | HKU.T.2004.1674"
+    credit: ""
+  - id: "boys_play"
+    src: figures/boys_play.png
+    caption: "Boys at Play | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, panel | 35.8 x 34.4 cm | Gift of Dr Lam Kwok Pun | HKU.T.2004.1666"
+    credit: ""
+  - id: "gathering_immortals"
+    src: figures/gathering_immortals.png
+    caption: "Gathering of Immortals | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, hanging scroll | 124.8 x 61.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2004.1671"
+    credit: ""
+  - id: "magu_wine"
+    src: figures/magu_wine.png
+    caption: "Magu offering wine | China | Qing dynasty (1644–1911), 18th or early 19th century | *Kesi* (silk tapestry), hanging scroll | 135.2 x 75.7 cm | Gift of Dr Lam Kwok Pun | HKU.T.2004.1670"
+    credit: ""
+  - id: "mandarinducks_blossoms"
+    src: figures/mandarinducks_blossoms.png
+    caption: "Mandarin ducks and peach blossoms | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry), hanging scroll | 78.1 x 37.8 cm |
+    Gift of Dr Lam Kwok Pun | Woven seal: *song ren suo zuo* (artwork made by the people of the Song dynasty) | HKU.T.2004.1680"
+    credit: ""
+  - id: "orioles_magnolias"
+    src: figures/orioles_magnolias.png
+    caption: "Orioles and magnolias | China | Late 19th or mid-20th century | *Kesi* (silk tapestry), hanging scroll | 120 x 47.5 cm |
+    Gift of Dr Lam Kwok Pun | Collector's seal: *Lantang shuwu*; Woven seal: *Shen Jinshui* | HKU.T.2004.1675"
+    credit: ""
+  - id: "dragon_robe_red"
+    src: figures/dragon_robe_red.png
+    caption: "Dragon robe | China | 19th century | *Kesi* (silk tapestry), hanging scroll | 135.2 x 75.7 cm | Gift of Dr TT Tsui Art Foundation | HKU.T.1996.1096"
+    credit: ""
+  - id: "ladies_children"
+    src: figures/ladies_children.png
+    caption: ""
+    credit: ""
+  - id: "calligraphic_panel_a"
+    src: figures/calligraphic_panel_a.png
+    caption: ""
+    credit: ""
+  - id: "calligraphic_panel_b"
+    src: figures/calligraphic_panel_b.png
+    caption: ""
+    credit: ""
+  - id: "banner_70th_2"
+    src: figures/banner_70th_2.png
+    caption: ""
+    credit: ""
+  - id: "banner_73rd"
+    src: figures/banner_73rd.png
+    caption: ""
+    credit: ""
+  - id: "lugard_tribute"
+    src: figures/lugard_tribute.png
+    caption: ""
+    credit: ""
+  - id: "lugard_tribute_casket"
+    src: figures/lugard_tribute_casket.png
+    caption: ""
+    credit: ""
