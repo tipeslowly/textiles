@@ -6,14 +6,8 @@ class: grid
 weight: 55
 slug: .
 ---
-Textiles shown in this section are all from the collection of the
-University Museum and Art Gallery (UMAG), The University of
-Hong Kong (HKU). UMAG’s textile collection
-has developed over the past several decades through generous
-donations by individuals affiliated with the University of Hong Kong
-and private collectors. Several embroidery pieces were donated by
-Dr Hui Wai Haan, who taught in HKU’s Department of Chemistry for
-nearly four decades, and the entire *kesi* silk tapestry collection was donated
+Textiles shown in this section are all from the collection of the University Museum and Art Gallery (UMAG), The University of Hong Kong (HKU). UMAG’s textile collection has developed over the past several decades through generous donations by individuals affiliated with the University of Hong Kong
+and private collectors. Several embroidery pieces were donated by Dr Hui Wai Haan, who taught in HKU’s Department of Chemistry for nearly four decades. The entire *kesi* silk tapestry collection was donated
 by Dr Lam Kwok Pun.
 
 The textiles have been dated according to their weaving or embroidery

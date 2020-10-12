@@ -119,8 +119,9 @@ object_list:
     provenance: Gift of Mr and Mrs Wellington Yee
     catalogue: HKU.T.2008.1787
     figure:
-      - id: "calligraphic_panel_b"
       - id: "calligraphic_panel_a"
+      - id: "calligraphic_panel_b"
+      - id: "embroidered_calligraphy_detail"
 
   - id: 10
     title: Longevity banner commemorating the 70th birthday of Xu Yingkui
@@ -132,6 +133,7 @@ object_list:
     provenance: Gift of Dr Hui Wai Haan
     catalogue: HKU.T.2004.1922
     figure:
+      - id: "banner_70th_1"
       - id: "banner_70th_2"
 
   - id: 11

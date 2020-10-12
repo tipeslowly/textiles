@@ -76,6 +76,10 @@ figure_list:
     src: figures/calligraphic_panel_b.png
     caption: ""
     credit: ""
+  - id: "embroidered_calligraphy_detail"
+    src: figures/embroidered_calligraphy_detail.png
+    caption: "Detail of calligraphic panel showing embroidered calligraphy and seal"
+    credit: ""
   - id: "banner_70th_2"
     src: figures/banner_70th_2.png
     caption: ""
@@ -92,3 +96,35 @@ figure_list:
     src: figures/lugard_tribute_casket.png
     caption: ""
     credit: ""
+  - id: "connecting_detail"
+    src: figures/connecting_detail.png
+    caption: "Silhouettes of the kingfishers are outlined in the *gou* (‘connecting’) technique;
+    the bluish feathers are woven in the *guan* (‘flinging’) technique."
+    credit: ""
+  - id: "propping_detail"
+    src: figures/propping_detail.png
+    caption: "Gradation of the pinkish-white hibiscus blossoms are woven in the *qiang* (‘propping’) technique."
+    credit: ""
+  - id: "knotting_detail"
+    src: figures/knotting_detail.png
+    caption: "The subtle shading effect in the scrolling clouds was achieved using the *jie* (‘knotting’) technique."
+    credit: ""
+  - id: "Magu_detail"
+    src: figures/Magu_detail.png
+    caption: "Magu’s face is embroidered in *qizhen* (‘straight stitch’)."
+    credit: ""
+  - id: "batwing_detail"
+    src: figures/batwing_detail.png
+    caption: "Shading of the green-coloured bat wings is done in *qiangzhen* (‘encroaching satin stitch’)."
+    credit: ""
+  - id: "wangxiu_detail"
+    src: figures/wangxiu_detail.png
+    caption: "Immortal’s trousers embroidered in *wangxiu* (‘net embroidery’)."
+    credit: ""
+  - id: "taozhen_detail"
+    src: figures/taozhen_detail.png
+    caption: "The bluish colouration of dragon scales is decorated in *taozhen* (‘long-and-short stitch’)."
+    credit: ""
+  - id: "map"
+    src: figures/map.png
+    caption: "Qing dynasty silk textile sites"

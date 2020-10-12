@@ -5,7 +5,7 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: boys_play_cvr.png
+image: sparrows_hibiscuses.png
 ---
 
 Prized by Chinese and foreign merchants as an essential commodity along a vast trade network, silk served multiple roles throughout the ancient world: as fabric for garments, as a form of currency and method of tax payment, and as a medium and subject matter for professional artists and the literati class. Over the centuries, silk fabrics have remained synonymous with beauty and are entwined throughout the history of Chinese art and literature.
