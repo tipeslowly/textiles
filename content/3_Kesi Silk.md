@@ -18,8 +18,6 @@ Developed by generations of weavers, the primary techniques include *gou* (‘co
 
 Wefts that differ from the colour of the subject motif are used to outline the motif’s silhouette.
 
-
-
 #### *guan* (‘flinging’)
 
 Two or more different but similar tones of coloured wefts are woven following the silhouette of the patterns. Wefts of each coloured block do not overlap and often appear to pile up in layers.
@@ -35,5 +33,5 @@ Two or more coloured wefts woven together to create shading; in this technique, 
 
 #### *jie* (‘knotting’)
 
-Two or three similarly coloured wefts with varying degrees of brightness create adjacent lines of colour ranging from light to dark. The subtle shading effect in the scrolling clouds was achieved using the *jie* (‘knotting’) technique.
+Two or three similarly coloured wefts with varying degrees of brightness create adjacent lines of colour ranging from light to dark. The subtle shading effect in the scrolling clouds below was achieved using the *jie* (‘knotting’) technique.
 {{< q-figure id="figures_moonlight" >}}

@@ -42,29 +42,43 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: Kikki Lam
+  - id: UMAG
     type: primary
+    first_name: University Museum and Art Gallery, HKU
+    last_name:
+    file_as: 1
+
+  - id: Kikki Lam
+    type: secondary
     first_name: Kikki
     last_name: Lam
     title: Assistant Curator
     affiliation: Hong Kong History Museum
-    bio:
-    url:
-    pic:
-    file_as: 1
+    file_as: 2
+
+  - id: Ben Chiesa
+    type: secondary
+    first_name: Ben
+    last_name: Chiesa
+    title: Editor
+    affiliation: UMAG
+    bio: "Assistant Curator"
+    file_as: 2
+
   - id: Christopher_Mattison
     type: secondary
     first_name: Christopher
     last_name: Mattison
     bio: "Series Editor"
-    file_as: 2
+    file_as: 3
+
   - id: Darcy_Christ
     type: secondary
     first_name: Darcy
     last_name: Christ
     bio: "Information Architect and Web Developer"
     url: https://aporia.info
-    file_as: 3
+    file_as: 4
 
 
 
@@ -123,16 +137,15 @@ subject:
     name: ART / Asian / Chinese
     identifer: ART019010
   - type: keyword
-    name: painting
+    name: textiles
+  - type: keyword
+    name: embroidery
   - type: getty
-    name: oil paintings (visual works)
-    identifier: "https://vocab.getty.edu/page/aat/300033799"
+    name: Chinese textile styles (visual works)
+    identifier: "https://vocab.getty.edu/page/aat/300245352"
   - type: getty
-    name: acrylic paintings (visual works)
-    identifier: "https://vocab.getty.edu/page/aat/300181918"
-  - type: getty
-    name: Hong Kong (culture)
-    identifier: "https://vocab.getty.edu/page/aat/300387735"
+    name: embroidery (visual works)
+    identifier: "https://vocab.getty.edu/page/aat/300264024"
 
 # ------------------------------------------------------------------------------
 # Revision History
@@ -148,4 +161,4 @@ repository_url:
 # Promo Image
 # ------------------------------------------------------------------------------
 
-promo_image: Cvr_tst.png
+promo_image: sparrows_hibiscuses.png

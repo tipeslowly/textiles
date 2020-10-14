@@ -10,7 +10,6 @@ abstract:
 
 {{< q-figure id="daoist_immortals" >}}
 
-
 Textiles can offer crucial insights into an individual society's history of design and manufacturing. The traditions of weaving and embroidering silk textiles in China have been passed on for centuries through discrete decorative motifs and techniques, and Chinese textiles have been treasured on the international market since they were first traded along the Silk Road.
 
 {{< q-figure id="growing_peony" >}}

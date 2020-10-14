@@ -8,6 +8,8 @@ toc: false
 image: sparrows_hibiscuses.png
 ---
 
-Prized by Chinese and foreign merchants as an essential commodity along a vast trade network, silk served multiple roles throughout the ancient world: as fabric for garments, as a form of currency and method of tax payment, and as a medium and subject matter for professional artists and the literati class. Over the centuries, silk fabrics have remained synonymous with beauty and are entwined throughout the history of Chinese art and literature.
+Prized by Chinese and foreign merchants as an essential commodity along a vast trade network, silk served multiple roles throughout the ancient world: as a fabric for garments, as a form of currency and method of tax payment, and as a medium and subject matter for professional artists and the literati class. Over the centuries, silk fabrics have remained synonymous with beauty and are entwined throughout the history of Chinese art and literature.
 
 Extending from the Qing dynasty (1644–1911) to the mid-20th century, [Pictorial Silks] (link to UMAG exhibition webpage TBC) encompasses a diverse range of subjects and formats that include hanging scrolls, framed panels, banners and robes. Each artwork exemplifies the sophisticated craftsmanship of the artisans and the collective stories of the Qing dynasty’s textile industry.
+
+Please follow the link for more information on UMAG's [*Pictorial Silks*](https://hkupress.hku.hk/pro/1830.php) collection, edited and introduced by UMAG researcher Kikki Lam.
