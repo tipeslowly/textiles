@@ -8,20 +8,21 @@ class: page-one
 abstract:
 ---
 Chinese silk tapestry is a type of handwoven textile which employs a weaving technique known as *tongjing duanwei* (‘continuous warp and broken weft’). Warp threads are first stretched onto a wooden loom and then weavers use a shuttle to carry polychrome weft threads across the warp—not the entire textile—leaving a subtle space between the colours. Such a distinctive appearance is thought to resemble cut or carved silk.
+&nbsp;  
+&nbsp;  
 
 ### Basic weaving techniques of kesi silk tapestry
 
 Developed by generations of weavers, the primary techniques include *gou* (‘connecting’) for defining the silhouette of patterns, along with *guan* (‘flinging’), *jie* (‘knotting’) and *qiang* (‘propping’). Each technique employs similar tones of polychrome wefts to achieve a gradation of colours.
-
+&nbsp;  
+&nbsp;  
 {{< q-figure id="connecting_detail" class="is-pulled-left" >}}
-#### *gou* (‘connecting’)
 
+#### *gou* (‘connecting’)
 Wefts that differ from the colour of the subject motif are used to outline the motif’s silhouette.
 
 #### *guan* (‘flinging’)
-
 Two or more different but similar tones of coloured wefts are woven following the silhouette of the patterns. Wefts of each coloured block do not overlap and often appear to pile up in layers.
-
 {{< q-figure id="propping_detail" class="is-pulled-left" >}}
 
 #### *qiang* (‘propping’)

@@ -9,11 +9,12 @@ object_display_order:
   - seal
   - catalogue
 
+
 object_list:
   - id: 1
     title: Boys at play
     period: Qing dynasty (1644–1911), 18th century
-    medium: Kesi (silk tapestry) with metallic threads, panel
+    medium: Silk tapestry (*kesi*) with metallic threads, panel
     location: China
     dimensions: 35.8 x 34.4 cm
     collection: University Museum and Art Gallery, HKU
@@ -25,7 +26,7 @@ object_list:
   - id: 2
     title: Gathering of immortals
     period: Qing dynasty (1644–1911), 18th century
-    medium: Kesi (silk tapestry) with metallic threads, panel
+    medium: Silk tapestry (*kesi*) with metallic threads, panel
     location: China
     dimensions: 124.8 x 61.5 cm
     collection: University Museum and Art Gallery, HKU
@@ -37,7 +38,7 @@ object_list:
   - id: 3
     title: Magu offering wine
     period: Qing dynasty (1644–1911), 18th or early 19th century
-    medium: Kesi (silk tapestry), hanging scroll
+    medium: Silk tapestry (*kesi*), hanging scroll
     location: China
     dimensions: 135.2 x 75.7 cm
     collection: University Museum and Art Gallery, HKU
@@ -48,13 +49,13 @@ object_list:
 
   - id: 4
     title: Peonies
-    period: Qing dynasty (1644–1911), 18th or early 19th century
-    medium: Kesi (silk tapestry) with metallic threads, hanging scroll
+    period: Qing dynasty (1644–1911), 18th century
+    medium: Silk tapestry (*kesi*) with metallic threads, hanging scroll
     location: China
     dimensions: 98.8 x 54 cm
     collection: University Museum and Art Gallery, HKU
     provenance: Gift of Dr Lam Kwok Pun
-    seal: Collector's seal *lantang shuwu*; Woven seal *Shen Jinshui*
+    seal: Collector's seal *Lantang shuwu*
     catalogue: HKU.T.2008.1672
     figure:
       - id: "peonies"
@@ -62,7 +63,7 @@ object_list:
   - id: 5
     title: Mandarin ducks and peach blossoms
     period: Qing dynasty (1644–1911), 18th century
-    medium: Kesi (silk tapestry) with metallic threads, panel
+    medium: Silk tapestry (*kesi*), panel
     location: China
     dimensions: 78.1 x 37.8 cm
     collection: University Museum and Art Gallery, HKU
@@ -74,8 +75,8 @@ object_list:
 
   - id: 6
     title: Orioles and magnolias
-    period: Qing dynasty (1644–1911), 18th century
-    medium: Kesi (silk tapestry), hanging scroll
+    period: Qing dynasty (1644–1911), late 19th or mid-2oth century
+    medium: Silk tapestry (*kesi*), hanging scroll
     location: China
     dimensions: 120 x 47.5 cm
     collection: University Museum and Art Gallery, HKU
@@ -99,7 +100,7 @@ object_list:
 
   - id: 8
     title: Ladies and children
-    period: 19th century
+    period: Qing dynasty (1644–1911), 19th century
     medium: Silk, panel
     location: China
     dimensions: 179 x 126.7 cm
@@ -111,10 +112,10 @@ object_list:
 
   - id: 9
     title: Embroidered calligraphic panels
-    period: Late 19th or early 20th century
+    period: Qing dynasty (1644–1911), late 19th or early 20th century
     medium: Silk
     location: China
-    dimensions: scroll 169 x 41 cm; scroll 169.5 x 40.8 cm
+    dimensions: upper scroll 169 x 41 cm; lower scroll 169.5 x 40.8 cm
     collection: University Museum and Art Gallery, HKU
     provenance: Gift of Mr and Mrs Wellington Yee
     catalogue: HKU.T.2008.1787
@@ -125,7 +126,7 @@ object_list:
 
   - id: 10
     title: Longevity banner commemorating the 70th birthday of Xu Yingkui
-    period: 1900
+    period: Qing dynasty (1644–1911), 1900
     medium: Silk with metallic threads
     location: China
     dimensions: 293.5 x 145.5 cm
@@ -138,7 +139,7 @@ object_list:
 
   - id: 11
     title: Longevity banner commemorating the 73rd birthday of Xu Yingkui
-    period: 1903
+    period: Qing dynasty (1644–1911), 1903
     medium: Silk with metallic threads
     location: China
     dimensions: 304 x 147 cm
@@ -150,7 +151,7 @@ object_list:
 
   - id: 12
     title: The Lugard Tribute
-    period: 1910
+    period: Qing dynasty (1644–1911), 1910
     medium: Silk scroll with a red sandalwood casket and silver mounts
     location: China
     dimensions: scroll 347 x 116.5 cm; casket height 84 cm

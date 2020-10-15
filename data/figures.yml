@@ -4,7 +4,7 @@ figure_list:
     credit: ""
   - id: "daoist_immortals"
     src: figures/daoist_immortals.png
-    caption: "Daoist immortals | China | Qing dynasty (1644–1911), 18th century | Kesi (silk tapestry) with metallic threads, horizontal scroll | 175.4 x 46.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2008.1669"
+    caption: "Daoist immortals | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, horizontal scroll | 175.4 x 46.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2008.1669"
     credit: ""
   - id: "dragon_robe_blue"
     src: figures/dragon_robe_blue.png
@@ -98,24 +98,24 @@ figure_list:
     credit: ""
   - id: "connecting_detail"
     src: figures/connecting_detail.png
-    caption: "Silhouettes of the kingfishers are outlined in the *gou* (‘connecting’) technique;
-    the bluish feathers are woven in the *guan* (‘flinging’) technique."
+    caption: "Silhouettes of kingfishers outlined in the *gou* (‘connecting’) technique;
+    bluish feathers woven in the *guan* (‘flinging’) technique."
     credit: ""
   - id: "propping_detail"
     src: figures/propping_detail.png
-    caption: "Gradation of the pinkish-white hibiscus blossoms are woven in the *qiang* (‘propping’) technique."
+    caption: "Gradation of pinkish-white hibiscus blossoms woven in the *qiang* (‘propping’) technique."
     credit: ""
   - id: "knotting_detail"
     src: figures/knotting_detail.png
-    caption: "The subtle shading effect in the scrolling clouds was achieved using the *jie* (‘knotting’) technique."
+    caption: "Subtle shading effect in the scrolling clouds achieved using the *jie* (‘knotting’) technique."
     credit: ""
   - id: "Magu_detail"
     src: figures/Magu_detail.png
-    caption: "Magu’s face is embroidered in *qizhen* (‘straight stitch’)."
+    caption: "Magu’s face embroidered in *qizhen* (‘straight stitch’)."
     credit: ""
   - id: "batwing_detail"
     src: figures/batwing_detail.png
-    caption: "Shading of the green-coloured bat wings is done in *qiangzhen* (‘encroaching satin stitch’)."
+    caption: "Shading of green-coloured bat wings in *qiangzhen* (‘encroaching satin stitch’)."
     credit: ""
   - id: "wangxiu_detail"
     src: figures/wangxiu_detail.png
@@ -123,7 +123,7 @@ figure_list:
     credit: ""
   - id: "taozhen_detail"
     src: figures/taozhen_detail.png
-    caption: "The bluish colouration of dragon scales is decorated in *taozhen* (‘long-and-short stitch’)."
+    caption: "Bluish colouration of dragon scales decorated in *taozhen* (‘long-and-short stitch’)."
     credit: ""
   - id: "map"
     src: figures/map.png

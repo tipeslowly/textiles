@@ -8,10 +8,14 @@ class: page-one
 abstract:
 ---
 Embroidery refers to the decorative textile technique in which a needle stitches polychrome threads onto a ground fabric in order to create the patterns. Needles, thread, scissors and frames are the four major tools for creating a work of embroidery.
+&nbsp;  
+&nbsp;  
 
 
 ### Commonly used embroidery techniques
 A variety of stitches were developed over the generations for outlining patterns, shading colours, adding three-dimensionality and for representing surface textures.
+&nbsp;  
+&nbsp;  
 
 #### *qizhen* (‘straight stitch’)
 
@@ -26,8 +30,8 @@ Short straight stitches are embroidered in layers, resulting in the shading of c
 {{< q-figure id="banner_70th_1" >}}
 
 #### *taozhen* (‘long-and-short stitch’)
-
 Dark- and light-coloured long and short stitches are offset to create a fluid and natural colouration.
+&nbsp;  
 
 #### *wangxiu* (‘net embroidery’)
 
