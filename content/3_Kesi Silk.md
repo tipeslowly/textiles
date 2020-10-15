@@ -1,6 +1,6 @@
 ---
 label: 3
-title: Kesi Silk Tapestry
+title: Silk Tapestry *Kesi*
 subtitle:
 weight: 30
 type: essay
@@ -11,7 +11,7 @@ Chinese silk tapestry is a type of handwoven textile which employs a weaving tec
 &nbsp;  
 &nbsp;  
 
-### Basic weaving techniques of kesi silk tapestry
+## Basic weaving techniques
 
 Developed by generations of weavers, the primary techniques include *gou* (‘connecting’) for defining the silhouette of patterns, along with *guan* (‘flinging’), *jie* (‘knotting’) and *qiang* (‘propping’). Each technique employs similar tones of polychrome wefts to achieve a gradation of colours.
 &nbsp;  

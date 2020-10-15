@@ -12,11 +12,11 @@ figure_list:
     credit: "Gift of Dr TT Tsui, Tsui Art Foundation Ltd | HKU.T.1996.1095"
   - id: "custard_cups"
     src: figures/custard_cups.png
-    caption: "Pair of custard cups | Jingdezhen, China | Qing dynasty, Qianlong period, ca. 1790s | Porcelain with underglaze and overglaze enamels and gilding | height 9 and 8.7 cm | Donated in memory of Miss Beryl Robina Wright | HKU.C.1997.1288a-b"
+    caption: "Pair of custard cups | Jingdezhen, China | Qing dynasty, Qianlong period, ca. 1790s | Porcelain with gilding | height 9 and 8.7 cm | Donated in memory of Miss Beryl Robina Wright | HKU.C.1997.1288a-b"
     credit: ""
   - id: "plate_powder_blue"
     src: figures/plate_powder_blue.png
-    caption: "Plate| Jingdezhen, China | Qing dynasty, Kangxi period (1662–1722)| Porcelain with powder blue glaze, gilding and overglaze enamels | diameter 27 cm | HKU.C.1976.0623"
+    caption: "Plate| Jingdezhen, China | Qing dynasty, Kangxi period (1662–1722)| Porcelain | diameter 27 cm | HKU.C.1976.0623"
     credit: ""
   - id: "kingfishers_hibiscuses"
     src: figures/kingfishers_hibiscuses.png
@@ -44,7 +44,7 @@ figure_list:
     credit: ""
   - id: "gathering_immortals"
     src: figures/gathering_immortals.png
-    caption: "Gathering of Immortals | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, hanging scroll | 124.8 x 61.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2004.1671"
+    caption: "Gathering of immortals | China | Qing dynasty (1644–1911), 18th century | *Kesi* (silk tapestry) with metallic threads, hanging scroll | 124.8 x 61.5 cm | Gift of Dr Lam Kwok Pun | HKU.T.2004.1671"
     credit: ""
   - id: "magu_wine"
     src: figures/magu_wine.png
@@ -125,6 +125,6 @@ figure_list:
     src: figures/taozhen_detail.png
     caption: "Bluish colouration of dragon scales decorated in *taozhen* (‘long-and-short stitch’)."
     credit: ""
-  - id: "map"
-    src: figures/map.png
+  - id: "textiles_maps"
+    src: figures/textiles_maps.png
     caption: "Qing dynasty silk textile sites"

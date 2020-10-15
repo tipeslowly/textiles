@@ -1,6 +1,6 @@
 ---
 label: 5
-title: Highlights from UMAG's Pictorial Silks
+title: Highlights from Pictorial Silks
 type: contents
 class: grid
 weight: 55
@@ -15,7 +15,7 @@ techniques, use of materials, or established information on individual
 weavers. The comparative discussion of silk tapestry and embroidery
 is based on the traditional juxtaposition of these two mediums in
 historical texts, including catalogues of the imperial collection such
-as *Midian zhulin* (The Pearl Forest in the Secret Hall) (1744), *Shiqu baoji*
+as *Midian zhulin* (Pearl Forest in the Secret Hall) (1744), *Shiqu baoji*
 (Catalogue of Painting and Calligraphy in the Qianlong Imperial Collection)
 (1745), and the monographs *Qing neifu cang kesi xiuxian shuhua lu*
 (Catalogue of Kesi Silk Tapestry Woven and Silk Embroidered Calligraphy

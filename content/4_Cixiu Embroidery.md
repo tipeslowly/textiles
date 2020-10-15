@@ -1,6 +1,6 @@
 ---
 label: 4
-title: Cixiu Embroidery
+title: Embroidery *Cixiu*
 subtitle:
 weight: 40
 type: essay
@@ -12,7 +12,7 @@ Embroidery refers to the decorative textile technique in which a needle stitches
 &nbsp;  
 
 
-### Commonly used embroidery techniques
+## Basic embroidery techniques
 A variety of stitches were developed over the generations for outlining patterns, shading colours, adding three-dimensionality and for representing surface textures.
 &nbsp;  
 &nbsp;  
