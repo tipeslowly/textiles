@@ -12,4 +12,4 @@
 # Use these settings for GH Pages
 
 baseURL: "https://tipeslowly.github.io/textiles/" # Needs trailing slash
-canonifyURLs: false
+canonifyURLs: true
