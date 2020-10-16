@@ -12,4 +12,4 @@
 baseURL: "localhost:1313"
 canonifyURLs: true
 params:
-  epub: true
+  epub: false
