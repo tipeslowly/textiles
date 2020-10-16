@@ -1,4 +1,5 @@
 ---
+label: 7
 title: Contributors
 weight: 80
 type: page

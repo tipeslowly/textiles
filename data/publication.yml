@@ -14,7 +14,7 @@ subtitle: Chinese Textiles from the UMAG Collection
 reading_line:
 short_title: Pictorial Silks from the UMAG Collection
 
-description:
+description: 
   one_line:
   full: >-
 
@@ -32,7 +32,7 @@ identifier:
 publisher:
   - name: UMAG
     location: Hong Kong
-    url:
+    url: https://tipeslowly.github.io/textiles/
     logo: contributors/HKUMAG_logo.png
 
 # ------------------------------------------------------------------------------
@@ -87,7 +87,7 @@ contributor:
 # Copright & License
 # ------------------------------------------------------------------------------
 
-copyright: © 2020 Hong Kong University Museum and Art Gallery, The University of Hong Kong
+copyright: © 2020 University Museum and Art Gallery, The University of Hong Kong
 
 license:
   name: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
@@ -100,21 +100,6 @@ license:
 # ------------------------------------------------------------------------------
 
 resource_link:
-  - type: other-format
-    name: PDF
-    media_type: application/pdf
-    link_relation: alternate
-    url: /downloads/output.pdf
-  - type: other-format
-    name: EPUB
-    media_type: application/epub+zip
-    link_relation: alternate
-    url: /downloads/output.epub
-  - type: other-format
-    name: Kindle/MOBI
-    media_type: vnd.amazon.mobi8-ebook
-    link_relation: alternate
-    url: /downloads/output.mobi
   - type: footer-link
     name: About
     link_relation: about
@@ -152,10 +137,10 @@ subject:
 # ------------------------------------------------------------------------------
 
 revision_history:
-  - date:
+  - date: October 15 2020
     summary:
 
-repository_url:
+repository_url: https://tipeslowly.github.io/textiles/
 
 # ------------------------------------------------------------------------------
 # Promo Image
