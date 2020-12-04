@@ -29,14 +29,6 @@
   </url>
   
   <url>
-    <loc>https://tipeslowly.github.io/textiles/selected_reading/</loc>
-  </url>
-  
-  <url>
-    <loc>https://tipeslowly.github.io/textiles/contributors/</loc>
-  </url>
-  
-  <url>
     <loc>https://tipeslowly.github.io/textiles/5_catalogue/1/</loc>
   </url>
   
@@ -82,6 +74,18 @@
   
   <url>
     <loc>https://tipeslowly.github.io/textiles/5_catalogue/12/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tipeslowly.github.io/textiles/selected_reading/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tipeslowly.github.io/textiles/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tipeslowly.github.io/textiles/privacy_policy/</loc>
   </url>
   
 </urlset>
