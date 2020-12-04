@@ -11,7 +11,6 @@ Embroidery refers to the decorative textile technique in which a needle stitches
 &nbsp;  
 &nbsp;  
 
-
 ## Basic embroidery techniques
 A variety of stitches were developed over the generations for outlining patterns, shading colours, adding three-dimensionality and for representing surface textures.
 &nbsp;  

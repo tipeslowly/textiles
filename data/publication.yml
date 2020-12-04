@@ -30,7 +30,7 @@ identifier:
   isbn:
 
 publisher:
-  - name: UMAG
+  - name: University Museum and Art Gallery
     location: Hong Kong
     url: https://tipeslowly.github.io/textiles/
     logo: contributors/HKUMAG_logo.png
@@ -42,10 +42,13 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: UMAG
+
+  - id: University Museum and Art Gallery
     type: primary
-    first_name: University Museum and Art Gallery, HKU
+    first_name: University Museum and Art Gallery
     last_name:
+    title:
+    affiliation:
     file_as: 1
 
   - id: Kikki Lam
@@ -63,14 +66,14 @@ contributor:
     title: Editor
     affiliation: UMAG
     bio: "Assistant Curator"
-    file_as: 2
+    file_as: 3
 
   - id: Christopher_Mattison
     type: secondary
     first_name: Christopher
     last_name: Mattison
     bio: "Series Editor"
-    file_as: 3
+    file_as: 4
 
   - id: Darcy_Christ
     type: secondary
@@ -78,7 +81,7 @@ contributor:
     last_name: Christ
     bio: "Information Architect and Web Developer"
     url: https://aporia.info
-    file_as: 4
+    file_as: 5
 
 
 
