@@ -10,7 +10,7 @@
 # ------------------------------------------------------------------------------
 # Title & Description
 title: Pictorial Silks
-subtitle: Chinese Textiles from UMAG
+subtitle: Chinese Textiles from the University Museum and Art Gallery (UMAG)
 reading_line:
 short_title: Pictorial Silks from the UMAG Collection
 
@@ -43,9 +43,9 @@ contributor_as_it_appears:
 
 contributor:
 
-  - id: University Museum and Art Gallery
+  - id: University Museum and Art Gallery, The University of Hong Kong
     type: primary
-    first_name: University Museum and Art Gallery
+    first_name: The University of Hong Kong
     last_name:
     title:
     affiliation:

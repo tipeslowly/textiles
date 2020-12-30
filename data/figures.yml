@@ -9,7 +9,7 @@ figure_list:
   - id: "dragon_robe_blue"
     src: figures/dragon_robe_blue.png
     caption: "Dragon robe | China | Qing dynasty (1644–1911), 19th century | Silk with metallic threads | 142 x 217 cm |"
-    credit: "Gift of Dr TT Tsui, Tsui Art Foundation Ltd | HKU.T.1996.1095"
+    credit: "Gift of Dr T T Tsui, Tsui Art Foundation Ltd | HKU.T.1996.1095"
   - id: "custard_cups"
     src: figures/custard_cups.png
     caption: "Pair of custard cups | Jingdezhen, China | Qing dynasty, Qianlong period, ca. 1790s | Porcelain with gilding | height 9 and 8.7 cm | Donated in memory of Miss Beryl Robina Wright | HKU.C.1997.1288a-b"
@@ -28,7 +28,7 @@ figure_list:
     credit: ""
   - id: "banner_70th_1"
     src: figures/banner_70th_1.png
-    caption: "Longevity banner commemorating the 70th birthday of Xu Yingkui | China| Qing dynasty (1644–1911), 1900 | Silk with metallic threads | 302 x 147.3 cm | Gift of Dr Hui Wai Haan | HKU.T.2004.1924"
+    caption: "Longevity banner commemorating the 70th birthday of Xu Yingkui | China| Qing dynasty (1644–1911), 1900 | Silk with metallic threads | 293.5 x 145.5 cm | Gift of Dr Hui Wai Haan | HKU.T.2004.1924"
     credit: ""
   - id: "peonies"
     src: figures/peonies.png
@@ -62,19 +62,19 @@ figure_list:
     credit: ""
   - id: "dragon_robe_red"
     src: figures/dragon_robe_red.png
-    caption: "Dragon robe | China | 19th century | *Kesi* (silk tapestry), hanging scroll | 135.2 x 75.7 cm | Gift of Dr TT Tsui Art Foundation | HKU.T.1996.1096"
+    caption: "Dragon robe | China | 19th century | Silk with metallic threads | 130.5 x 198 cm | Gift of Dr T T Tsui Art Foundation | HKU.T.1996.1096"
     credit: ""
   - id: "ladies_children"
     src: figures/ladies_children.png
-    caption: ""
+    caption: "Ladies and children | China | Qing dynasty (1644–1911), 19th century | Silk, panel | 179 x 126.7 cm | HKU.T.2005.1595"
     credit: ""
   - id: "calligraphic_panel_a"
     src: figures/calligraphic_panel_a.png
-    caption: ""
+    caption: "Embroidered calligrahic panel | China | Qing dynasty (1644–1911), late 19th or early 20th century | Silk, upper scroll: 169 x 41 cm | HKU.T.2008.1787"
     credit: ""
   - id: "calligraphic_panel_b"
     src: figures/calligraphic_panel_b.png
-    caption: ""
+    caption: "Embroidered calligrahic panel | China | Qing dynasty (1644–1911), late 19th or early 20th century | Silk, lower scroll: 169.5 x 40.8 cm | HKU.T.2008.1787"
     credit: ""
   - id: "embroidered_calligraphy_detail"
     src: figures/embroidered_calligraphy_detail.png
@@ -82,19 +82,19 @@ figure_list:
     credit: ""
   - id: "banner_70th_2"
     src: figures/banner_70th_2.png
-    caption: ""
+    caption: "Longevity banner commemorating the 70th birthday of Xu Yingkui | China| Qing dynasty (1644–1911), 1900 | Silk with metallic threads | 302 x 147.3 cm | Gift of Dr Hui Wai Haan | HKU.T.2004.1924"
     credit: ""
   - id: "banner_73rd"
     src: figures/banner_73rd.png
-    caption: ""
+    caption: "Longevity banner commemorating the 73rd birthday of Xu Yingkui | China| Qing dynasty (1644–1911), 1903 | Silk with metallic threads | 304 x 147 cm | Gift of Dr Hui Wai Haan | HKU.T.2004.1923"
     credit: ""
   - id: "lugard_tribute"
     src: figures/lugard_tribute.png
-    caption: ""
+    caption: "The Lugard Tribute | China| Qing dynasty (1644–1911), 1910 | Silk scroll with a red sandalwood casket and silver mounts | scroll: 347 x 116.5 cm | On permanent loan from Major Richard Pinker | HKU.W.2001.1393"
     credit: ""
   - id: "lugard_tribute_casket"
     src: figures/lugard_tribute_casket.png
-    caption: ""
+    caption: "Casket: height 84 cm"
     credit: ""
   - id: "connecting_detail"
     src: figures/connecting_detail.png

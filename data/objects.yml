@@ -125,14 +125,14 @@ object_list:
       - id: "embroidered_calligraphy_detail"
 
   - id: 10
-    title: Longevity banner commemorating the 70th birthday of Xu Yingkui
+    title: Longevity banners commemorating the 70th birthday of Xu Yingkui
     period: Qing dynasty (1644–1911), 1900
     medium: Silk with metallic threads
     location: China
-    dimensions: 293.5 x 145.5 cm
+    dimensions: 293.5 x 145.5 cm; 302 x 147.3 cm 
     collection: University Museum and Art Gallery, HKU
     provenance: Gift of Dr Hui Wai Haan
-    catalogue: HKU.T.2004.1922
+    catalogue: HKU.T.2004.1922; HKU.T.2004.1924
     figure:
       - id: "banner_70th_1"
       - id: "banner_70th_2"
