@@ -10,7 +10,7 @@ abstract:
 
 {{< q-figure id="dragon_robe_blue" >}}
 
-The flourishing silk industry in the Qing dynasty (1644–1911) laid a solid foundation for the development of pictorial and calligraphic silk textiles. Political and economic stability, as well as imperial patronage during the reign of the Kangxi (1662–1722), Yongzheng (1722–35) and Qianlong (1736–95) emperors contributed to an already thriving silk industry. Large-scale manufacturing centres for silk and silk products were founded by the Qing government.
+The flourishing silk industry in the Qing dynasty (1644–1911) laid a solid foundation for the development of pictorial and calligraphic silk textiles. Political and economic stability, as well as imperial patronage during the reign of the Kangxi (1662–1722), Yongzheng (1722–35) and Qianlong (1736–95) emperors contributed to an already thriving silk industry. Large-scale manufacturing centres for silk and silk products were also founded by the Qing government.
 
 {{< q-figure id="textiles_maps" >}}
 
